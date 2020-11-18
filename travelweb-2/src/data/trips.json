@@ -1,0 +1,27 @@
+[
+   
+    {
+        "img":"../assets/images/travel-1.jpg",
+        "alt":"Petang, Indonesia",
+        "name":"Petang, Indonesia",
+        "button":"View Destination"
+    },
+    {
+        "img":"../assets/images/travel-2.jpg",
+        "alt":"Moskenes, Norway",
+        "name":"Moskenes, Norway",
+        "button":"View Destination"
+    },
+    {
+        "img":"../assets/images/travel-3.jpg",
+        "alt":"Croatia",
+        "name":"Croatia",
+        "button":"View Destination"
+    },
+    {
+        "img":"../assets/images/travel-4.jpg",
+        "alt":"Norway",
+        "name":"Norway",
+        "button":"View Destination"
+    }
+]
